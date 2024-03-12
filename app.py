@@ -13,6 +13,6 @@ components.html(
         language-code="en"></df-messenger>
     """,
     height=700, # try various values to see what works best (maybe use st.slider)
- hide_github_icon
+ hide_github_icon,
 )
 #st.markdown(hide_github_icon, unsafe_allow_html=True)
