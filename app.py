@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
  
-hide_github_icon = """#GithubIcon {  visibility: hidden;}"""
+hide_github_icon = "#GithubIcon {  visibility: hidden;}"
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
 components.html(
