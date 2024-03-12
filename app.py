@@ -1,8 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
  
-hide_github_icon = 
-"""
+hide_github_icon = """
 #GithubIcon {
   visibility: hidden;
 }
